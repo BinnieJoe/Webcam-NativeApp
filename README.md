@@ -1,5 +1,5 @@
 # NativeApp_Yolov5
-creating a simple GUI program with Pyqt5.
+Create a simple GUI program in Pyqt5 for the task of detecting objects on the screen in real time using a webcam.
 
 
 # Start
