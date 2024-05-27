@@ -1,4 +1,4 @@
-# NativApp_Yolov5
+# NativeApp_Yolov5
 creating a simple GUI program with Pyqt5.
 
 
