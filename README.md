@@ -1,4 +1,4 @@
-# NativeApp_Yolov5
+# Webcam_NativeApp
 Create a simple GUI program in Pyqt5 for the task of detecting objects on the screen in real time using a webcam.
 
 
